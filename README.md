@@ -1,6 +1,8 @@
-🅷🅴🆈, 🅸'🅰🅼 🆁🅴🅽🅰🅻
+<span style="font-weight: bold; font-size: 1.2em; color: blue;">ⒽⒺⓎ, Ⓘ'ⒶⓂ ⓇⒺⓃⒶⓁ</span>
 
-ⒽⒺⓎ, Ⓘ'ⒶⓂ ⓇⒺⓃⒶⓁ
+___
+ 
+my nickname's - JoKeRooo7, JoKeRoooo7, lynseypi
 
 - 👋 Hi, I’m @JoKeRooo7
 - 👀 I’m interested in ...
