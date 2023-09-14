@@ -9,7 +9,7 @@
 
 💬 About me:
 
-* I am a student [school s21](https://21-school.ru/), 
+* I am a student [school 21](https://21-school.ru/), 
 * also student [KPFU](https://kpfu.ru/) majoring in Physics. 
 * 👨‍🎓 I graduated from the Faculty of Industrial and Civil Engineering 🔨.
 
@@ -20,7 +20,7 @@ My interests relate to the exact sciences 📚(mathematics, physics). I am inter
 
 🌐 Social network:
 
-<a href="https://t.me/@JoKeRooo7">
+<a href="https://t.me/JoKeRooo7">
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-telegram-96.png" alt="your_gif" 
      width="48" height="48">
 </a>
