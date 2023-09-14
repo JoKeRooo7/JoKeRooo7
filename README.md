@@ -7,7 +7,21 @@
 
 ---
 
-#### About me:
+🌐 Social network:
+
+<telegram href="https://t.me/@JoKeRooo7">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-telegram-96.png" alt="your_gif" 
+     width="48" height="48">
+</telegram>
+
+<vk href="https://vk.com/jokerooo7">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-vk-96.png" alt="your_gif" 
+     width="48" height="48">
+</vl>
+
+---
+
+💬 About me:
 
 * I am a student [school s21](https://21-school.ru/), 
 * also student [KPFU](https://kpfu.ru/) majoring in Physics. 
@@ -71,6 +85,21 @@ ___
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoKeRooo7&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoKeRooo7&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoKeRooo7&github_dark)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ___
 
