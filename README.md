@@ -14,7 +14,7 @@
 * 👨‍🎓 I graduated from the Faculty of Industrial and Civil Engineering 🔨.
 
   
-My interests relate to the exact sciences 📚(mathematics, physics). I like development in c/c++, python, ML, data science
+My interests relate to the exact sciences 📚(mathematics, physics). I am interested in development in c/c++, python, also ML and data science.
 
 ---
 
