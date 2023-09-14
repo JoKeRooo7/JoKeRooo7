@@ -20,5 +20,45 @@ My interests relate to the exact sciences 📚(mathematics, physics). I am inter
 
 ✏ Programming languages:
 
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/c_language.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/cpp_langugage.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-sql-60%20(1).png" alt="your_gif" 
+   width="48" height="48">
+
 ___
 
+🔧 Tools:
+
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-visual-studio-code-2019-96.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-visual-studio-96.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-qt-100.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/bash.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-postgresql-96.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/datagrip.svg" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/blender.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-photoshop-96.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/autocad.png" alt="your_gif" 
+   width="48" height="48">
+
+___
+
+💻 Operating systems:
+
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-windows-11-96.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/inux.png" alt="your_gif" 
+   width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-macos-100.png" alt="your_gif" 
+   width="48" height="48">
+
+___
