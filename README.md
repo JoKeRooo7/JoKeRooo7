@@ -1,2 +1,1 @@
-<b><p align="center"><span style="font-size:74px; font-weight: bold;">Hey I'm Renal</span></p></b>
-___
+<h1 id="header" align="center"> Hey, I'm Renal</h1>
