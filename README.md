@@ -18,3 +18,7 @@ My interests relate to the exact sciences 📚(mathematics, physics). I am inter
 
 ---
 
+✏ Programming languages:
+
+___
+
