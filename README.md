@@ -9,15 +9,14 @@
 
 🌐 Social network:
 
-<telegram href="https://t.me/@JoKeRooo7">
+<a href="https://t.me/@JoKeRooo7">
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-telegram-96.png" alt="your_gif" 
      width="48" height="48">
-</telegram>
-
-<vk href="https://vk.com/jokerooo7">
+</a>
+<a href="https://vk.com/jokerooo7">
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-vk-96.png" alt="your_gif" 
      width="48" height="48">
-</vl>
+</a>
 
 ---
 
