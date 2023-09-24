@@ -54,6 +54,8 @@ ___
    width="48" height="48">
 <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-postgresql-96.png" alt="your_gif" 
    width="48" height="48">
+<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/Matlab_Logo.png" alt="your_gif" 
+   width="48" height="48">
 <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/datagrip.svg" alt="your_gif" 
    width="48" height="48">
 <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/blender.png" alt="your_gif" 
