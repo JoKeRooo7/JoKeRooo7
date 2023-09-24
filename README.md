@@ -32,6 +32,7 @@ My interests relate to the exact sciences 📚(mathematics, physics). I am inter
 ---
 
 ✏ Programming languages:
+
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/c_language.png" alt="your_gif" 
      width="48" height="48">
