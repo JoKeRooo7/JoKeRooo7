@@ -32,13 +32,18 @@ My interests relate to the exact sciences 📚(mathematics, physics). I am inter
 ---
 
 ✏ Programming languages:
-
-<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/c_language.png" alt="your_gif" 
-   width="48" height="48">
-<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/cpp_langugage.png" alt="your_gif" 
-   width="48" height="48">
-<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-sql-60%20(1).png" alt="your_gif" 
-   width="48" height="48">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/c_language.png" alt="your_gif" 
+     width="48" height="48">
+</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/cpp_langugage.png" alt="your_gif" 
+     width="48" height="48">
+</a>
+<a href="https://en.wikipedia.org/wiki/SQL>
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-sql-60%20(1).png" alt="your_gif" 
+     width="48" height="48">
+</a>
 
 ___
 
