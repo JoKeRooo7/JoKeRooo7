@@ -40,7 +40,7 @@ My interests relate to the exact sciences 📚(mathematics, physics). I am inter
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/cpp_langugage.png" alt="your_gif" 
      width="48" height="48">
 </a>
-<a href="https://en.wikipedia.org/wiki/SQL>
+<a href="https://en.wikipedia.org/wiki/SQL">
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-sql-60%20(1).png" alt="your_gif" 
      width="48" height="48">
 </a>
