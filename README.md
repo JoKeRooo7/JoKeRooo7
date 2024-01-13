@@ -41,8 +41,8 @@ My interests relate to the exact sciences 📚(mathematics, physics). I am inter
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/cpp_langugage.png" alt="your_gif" 
      width="48" height="48">
 </a>
-<a href="https://en.wikipedia.org/wiki/SQL">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-sql-60%20(1).png" alt="your_gif" 
+<a href="https://www.python.org/">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-240.png" alt="your_gif" 
      width="48" height="48">
 </a>
 
@@ -66,29 +66,29 @@ ___
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/bash.png" alt="your_gif" 
      width="48" height="48">
 </a>
-<a href="https://www.postgresql.org/">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-postgresql-96.png" alt="your_gif" 
+<a href="https://en.wikipedia.org/wiki/SQL">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-sql-60%20(1).png" alt="your_gif" 
      width="48" height="48">
 </a>
-<a href="https://www.mathworks.com/products/matlab.html">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/Matlab_Logo.png" alt="your_gif" 
+<a href="https://www.postgresql.org/">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-postgresql-96.png" alt="your_gif" 
      width="48" height="48">
 </a>
 <a href="https://www.jetbrains.com/ru-ru/datagrip/">
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/datagrip.svg" alt="your_gif" 
      width="48" height="48">
 </a>
-<a href="https://www.blender.org/">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/blender.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://www.adobe.com/ru/products/photoshop.html">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-photoshop-96.png" alt="your_gif" 
+<a href="https://www.mathworks.com/products/matlab.html">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/Matlab_Logo.png" alt="your_gif" 
      width="48" height="48">
 </a>
 <a href="https://autocad.ru/">
 <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/autocad.png" alt="your_gif" 
    width="48" height="48">
+</a>
+<a href="https://www.adobe.com/ru/products/photoshop.html">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-photoshop-96.png" alt="your_gif" 
+     width="48" height="48">
 </a>
 
 ___
