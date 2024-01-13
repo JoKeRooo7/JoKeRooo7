@@ -62,12 +62,16 @@ ___
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-qt-100.png" alt="your_gif" 
      width="48" height="48">
 </a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/bash.png" alt="your_gif" 
+<a href="https://redis.io/">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-redis-240.png" alt="your_gif" 
      width="48" height="48">
 </a>
 <a href="https://www.docker.com/">
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-docker-240.png" alt="your_gif" 
+     width="48" height="48">
+</a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/bash.png" alt="your_gif" 
      width="48" height="48">
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL">
