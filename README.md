@@ -66,6 +66,10 @@ ___
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/bash.png" alt="your_gif" 
      width="48" height="48">
 </a>
+<a href="https://www.docker.com/">
+  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-docker-240.png" alt="your_gif" 
+     width="48" height="48">
+</a>
 <a href="https://en.wikipedia.org/wiki/SQL">
   <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-sql-60%20(1).png" alt="your_gif" 
      width="48" height="48">
