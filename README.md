@@ -1,128 +1,53 @@
-<p id="header" align="center">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/raw/develop/gift/my_name.gif" alt="your_gif"
-   width="200" height="28">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/image/devil_shark.png"
-  alt="emoji_cat_in_shark" width="32" height="32" >
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Реналь Гариев — Python Backend · Applied ML" />
 </p>
 
+<p align="center">
+  <a href="https://t.me/JoKeRooo7">Telegram</a> ·
+  <a href="https://hh.ru/resume/471e1400ff0e1cc11f0039ed1f6d6368496331">Резюме</a> ·
+  <a href="README.en.md">English</a>
+</p>
+
+## Привет, я Реналь
+
+**Python backend-разработчик. Работаю с прикладным ML и виртуальными ассистентами.**
+
+Разрабатываю серверную логику, API и сценарии ассистентов. В работе занимаюсь ранжированием ML-инсайтов, анализом поведения пользователей и прогнозированием расходов. Есть опыт экспериментов с RAG и NLP для улучшения ответов системы поддержки.
+
+Мне интересно разбираться в том, как устроены системы: от структур данных на C++ до обучения нейронных сетей. Отдельный интерес — математика, физика, нейробиология и визуализация вычислений.
+
+### Чем занимаюсь
+
+- **Backend:** серверная логика финансовых продуктов, сценарии виртуального ассистента и налогового агента.
+- **Applied ML:** ранжирование, поведенческие паттерны, прогнозирование временных рядов; проверка гипотез с RAG/NLP.
+- **Собственные исследования:** идея нейросети, вдохновлённой устройством мозга, и эксперименты с вычислительными моделями.
+
+### Стек
+
+| Направление | Технологии |
+| :--- | :--- |
+| Backend | Python · FastAPI · Pydantic · SQLAlchemy |
+| Данные | PostgreSQL · Redis · SQL |
+| ML / NLP | scikit-learn · PyTorch · LangChain · FAISS |
+| Инструменты | Docker · Git · Linux · Bash · pytest |
+| Алгоритмы и моделирование | C · C++ · NumPy |
+
+### Избранные проекты
+
+<a href="https://github.com/JoKeRooo7/MyPersonalNeuralNetwork"><img src="assets/research.svg" width="100%" alt="MyPersonalNeuralNetwork — исследовательская идея, стадия концепции" /></a>
+
+**[MyPersonalNeuralNetwork](https://github.com/JoKeRooo7/MyPersonalNeuralNetwork)** — мой долгосрочный исследовательский замысел: изучать принципы работы мозга и пробовать переносить их в вычислительные модели. **Сейчас — стадия идеи:** в репозитории опубликовано описание, реализации и результатов экспериментов пока нет.
+
+<a href="https://github.com/JoKeRooo7/MLP"><img src="assets/mlp.svg" width="100%" alt="MLP — компоненты перцептрона на C++, экспериментальная реализация" /></a>
+
+**[MLP](https://github.com/JoKeRooo7/MLP)** — экспериментальная реализация компонентов перцептрона на C++: нейроны, связи, веса и тесты. Проект помогает изучать внутреннее устройство нейросетей; часть компонентов пока не реализована.
+
+**[MazeApp](https://github.com/JoKeRooo7/MazeApp)** — приложение на Python для генерации и решения лабиринтов: поиск в ширину, настольный интерфейс Qt/OpenGL и тесты алгоритмов. [Инструкция запуска →](https://github.com/JoKeRooo7/MazeApp/blob/main/src/README.md)
+
+### Сейчас изучаю
+
+Машинное обучение в **OTUS**, учусь в **Финансовом университете при Правительстве РФ**. Развиваю знания в ML/DL, математике и нейробиологии; хочу связывать теорию с кодом и воспроизводимыми экспериментами.
+
 ---
 
-💬 About me:
-
-* I am a student [school 21](https://21-school.ru/), 
-* also student [KPFU](https://kpfu.ru/) majoring in Physics. 
-* I graduated from the Faculty of Industrial and Civil Engineering 👨‍🎓🔨.
-
-  
-My interests relate to the exact sciences 📚(mathematics, physics). I am interested in development in c/c++, python, also ML and data science.
-
----
-
-🌐 Social network:
-
-<a href="https://t.me/JoKeRooo7">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-telegram-96.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://vk.com/jokerooo7">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-vk-96.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-
----
-
-✏ Programming languages:
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/c_language.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/cpp_langugage.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://www.python.org/">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-240.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-
-___
-
-🔧 Tools:
-
-<a href="https://code.visualstudio.com/">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-visual-studio-code-2019-96.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://visualstudio.microsoft.com/">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-visual-studio-96.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://www.qt.io/">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-qt-100.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://redis.io/">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-redis-240.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://www.docker.com/">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-docker-240.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/bash.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://en.wikipedia.org/wiki/SQL">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-sql-60%20(1).png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://www.postgresql.org/">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-postgresql-96.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://www.jetbrains.com/ru-ru/datagrip/">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/datagrip.svg" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://www.mathworks.com/products/matlab.html">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/Matlab_Logo.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-<a href="https://autocad.ru/">
-<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/autocad.png" alt="your_gif" 
-   width="48" height="48">
-</a>
-<a href="https://www.adobe.com/ru/products/photoshop.html">
-  <img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-photoshop-96.png" alt="your_gif" 
-     width="48" height="48">
-</a>
-
-___
-
-💻 Operating systems:
-
-<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-windows-11-96.png" alt="your_gif" 
-   width="48" height="48">
-<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/inux.png" alt="your_gif" 
-   width="48" height="48">
-<img src="https://github.com/JoKeRooo7/JoKeRooo7/blob/develop/icons/icons8-macos-100.png" alt="your_gif" 
-   width="48" height="48">
-
-___
-
-📈 Statistics:
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoKeRooo7&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoKeRooo7&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoKeRooo7&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoKeRooo7&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoKeRooo7&github_dark)
-
-___
-
-
-
-
+**Обсудить backend, ML или совместный проект?** [Напиши мне в Telegram →](https://t.me/JoKeRooo7)
